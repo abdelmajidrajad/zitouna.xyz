@@ -37,43 +37,43 @@ features                                  :
 
   - title                                 : Manage Grinding
     description                           : Calculate your customer olive weight.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : mortar-pestle
 
   - title                                 : Customer Invoice
     description                           : Print an invoice for your customer.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : file-invoice-dollar
 
   - title                                 : Know Customers
     description                           : Add new customers.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : users
 
-  - title                                 : Sale Oil &
+  - title                                 : Sale Oil & Olive
     description                           : Sale oil, bottles, olive.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : shopping-cart
 
   - title                                 : Pay Team
     description                           : Pay your teams and manage tasks.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : money-bill-alt
 
   - title                                 : Message Customer
     description                           : Send Whatsapp or SMS to customers to let them know about grinding tasks.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : comment
 
   - title                                 : Customer payments
     description                           : Grab payments from customers.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : money-check-alt
 
   - title                                 : Make Purchase
     description                           : Add your purchases to have good insight about oil price.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : shopping-basket
 
   - title                                 : Fancy Design
     description                           : Change app design to Dark/Light and choose best app icons.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : adjust
 
   - title                                 : Arabic Support
     description                           : Choose arabic language or english and play.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : language
 
 
 
@@ -82,11 +82,11 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
